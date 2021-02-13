@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">3enRaya</string>
+    <string name="titulo">Tic-Tac-Toe</string>
+    <string name="jugador1">1 Player</string>
+    <string name="jugador2">2 Players</string>
+    <string name="facil">Easy</string>
+    <string name="dificil">Difficult</string>
+    <string name="extremo">Extreme</string>
+    <string name="partidas">Games</string>
+    <string name="ranking">Ranking</string>
+    <string name="usuario">User</string>
+    <string name="puntos">Points</string>
+    <string name="j1">Player 1</string>
+    <string name="j2">Player 2</string>
+    <string name="dificultad">Difficulty</string>
+    <string name="resultado">Result</string>
+</resources>

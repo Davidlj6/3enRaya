@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">3enRaya</string>
+    <string name="titulo">Tres en Raya</string>
+    <string name="jugador1">1 Jugador</string>
+    <string name="jugador2">2 Jugadores</string>
+    <string name="facil">Fácil</string>
+    <string name="dificil">Difícil</string>
+    <string name="extremo">Extremo</string>
+    <string name="partidas">Partidas</string>
+    <string name="ranking">Ranking</string>
+    <string name="usuario">Usuario</string>
+    <string name="puntos">Puntos</string>
+    <string name="j1">Jugador 1</string>
+    <string name="j2">Jugador 2</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="resultado">Resultado</string>
 </resources>
